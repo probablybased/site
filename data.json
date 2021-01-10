@@ -1,0 +1,20 @@
+{
+    "wave": {
+      "display_name": "Wave",
+      "file": "binaries/Wave.dll",
+      "mcversion": "1.16.201",
+      "updated": "1.10.21"
+    },
+    "hydrogen": {
+      "display_name": "Hydrogen",
+      "file": "binaries/Hydrogen.dll",
+      "mcversion": "1.16.40",
+      "updated": "1.10.21"
+    },
+    "oldfag": {
+      "display_name": "Oldfag",
+      "file": "binaries/Oldfag.dll",
+      "mcversion": "1.16.40",
+      "updated": "1.10.21"
+    }
+  }
