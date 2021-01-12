@@ -1,7 +1,7 @@
 {
   "winter": {
     "display_name": "Winter",
-    "file": "wave.dll",
+    "file": "winter.jar",
     "mcversion": "1.16.100",
     "updated": "1.10.21",
     "libs": ["fastutil-8.2.1.jar", "Java-Memory-Manipulation-2.1.2.jar", "jna-4.5.2.jar",
