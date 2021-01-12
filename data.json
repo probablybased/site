@@ -5,7 +5,7 @@
     "mcversion": "1.16.100",
     "updated": "1.10.21",
     "libs": ["fastutil-8.2.1.jar", "Java-Memory-Manipulation-2.1.2.jar", "jna-4.5.2.jar",
-    "jna-platform-4.5.2", "system-hook-3.8.jar", "zero-allocation-hashing-0.8.jar"]
+    "jna-platform-4.5.2.jar", "system-hook-3.8.jar", "zero-allocation-hashing-0.8.jar"]
   },
   "wave": {
     "display_name": "Wave",
