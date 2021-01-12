@@ -1,27 +1,27 @@
 {
   "winter": {
-    "display_name": "Wave",
-    "file": "binaries/wave.dll",
-    "mcversion": "1.16.201",
+    "display_name": "Winter",
+    "file": "wave.dll",
+    "mcversion": "1.16.100",
     "updated": "1.10.21",
     "libs": ["fastutil-8.2.1.jar", "Java-Memory-Manipulation-2.1.2.jar", "jna-4.5.2.jar",
     "jna-platform-4.5.2", "system-hook-3.8.jar", "zero-allocation-hashing-0.8.jar"]
   },
   "wave": {
     "display_name": "Wave",
-    "file": "binaries/wave.dll",
+    "file": "wave.dll",
     "mcversion": "1.16.201",
     "updated": "1.10.21"
   },
   "hydrogen": {
     "display_name": "Hydrogen",
-    "file": "binaries/hydrogen.dll",
+    "file": "hydrogen.dll",
     "mcversion": "1.16.40",
     "updated": "1.10.21"
   },
   "oldfag": {
     "display_name": "Oldfag",
-    "file": "binaries/oldfag.dll",
+    "file": "oldfag.dll",
     "mcversion": "1.16.40",
     "updated": "1.10.21"
   }
